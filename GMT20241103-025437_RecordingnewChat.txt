@@ -1,0 +1,21 @@
+
+
+print("Hello World")
+
+# contoh tugas
+class Animal:
+   def __init__(self, name, species, age):
+      self.name = name
+      self.species = species
+      self.age = age
+
+class Cat(Animal):
+   def deskripsi(self):
+      return f"{self.name} adalah kucing berjenis {self.species} yang sudah berumur {self.age} tahun"
+
+   def suara(self):
+      return "meow!"
+              
+myCat = Cat("Neko", "Persian", 3)
+print(myCat.deskripsi())
+print(myCat.suara())
