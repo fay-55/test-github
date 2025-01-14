@@ -1,5 +1,8 @@
 # ini code ke2, setelah uji coba pertama
-print("Hello Hello"
+print("Hello Hello")
+
+#ini code ke3, apayak
+print("my cat is cute")
 
 print("Hello World")
 
