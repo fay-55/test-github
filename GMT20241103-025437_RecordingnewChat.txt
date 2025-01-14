@@ -17,3 +17,5 @@ class Cat(Animal):
 myCat = Cat("Neko", "Persian", 3)
 print(myCat.deskripsi())
 print(myCat.suara())
+
+code experimen yg berasal dari branch
