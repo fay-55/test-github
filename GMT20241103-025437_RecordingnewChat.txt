@@ -1,4 +1,5 @@
-
+# ini code ke2, setelah uji coba pertama
+print("Hello Hello"
 
 print("Hello World")
 
