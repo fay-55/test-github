@@ -1,12 +1,6 @@
-# ini code ke2, setelah uji coba pertama
-print("Hello Hello")
 
-#ini code ke3, apayak
-print("my cat is cute")
 
-print("Hello World")
-
-# contoh tugas
+# contoh code dari MAIN
 class Animal:
    def __init__(self, name, species, age):
       self.name = name
